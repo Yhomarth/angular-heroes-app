@@ -12,6 +12,10 @@ import { Heroe, Publisher } from '../../interfaces/heroe.interface';
     mat-card {
       margin-top : 20px;
     }
+
+    img {
+      width: 100%
+    }
     `
   ]
 })
